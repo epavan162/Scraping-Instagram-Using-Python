@@ -3,8 +3,8 @@ Instagram is one of the most popular social media sites with billions of users. 
 ## Instaloader Python Library
 Fetching data from Instagram is made easy with this convenient library.Instaloader is a Python library you can use to extract publicly available data from Instagram. You can access data like images, videos, username, no. of posts, followers count, following count, bio, etc. using Instaloader. 
 # Outputs For Selected Number
-
-<h2>The script Expect a Instagram Id as Input</h2>
+## IDE USED :  [ Intellij IDEA  ]
+<h2>The script Expect a Instagram Id as Input,After that you need to choose what you want about profile</h2>
 
 ![Screenshot (123)](https://github.com/epavan162/Scraping-Instagram-Using-Python/assets/102135027/6e8cc6bf-a985-4e3f-b6bd-45045b979079)
 
