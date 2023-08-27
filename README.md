@@ -8,18 +8,18 @@ Fetching data from Instagram is made easy with this convenient library.Instaload
 
 ![Screenshot (123)](https://github.com/epavan162/Scraping-Instagram-Using-Python/assets/102135027/6e8cc6bf-a985-4e3f-b6bd-45045b979079)
 
-<h3>After Selecting 1 It shows Followers Count<h3>
+<h3>1 For Followers Count<h3>
 
 ![Screenshot (125)](https://github.com/epavan162/Scraping-Instagram-Using-Python/assets/102135027/093b96ff-c499-4de5-bdd7-eca61c236440)
 
 
-<h3>After Selecting 2 It shows Followees Count<h3>
+<h3>For Input 2 It shows Followees Count<h3>
 
 
 ![Screenshot (126)](https://github.com/epavan162/Scraping-Instagram-Using-Python/assets/102135027/a1a033bd-3bfe-4d8d-839e-8731fad8655b)
 
 
-<h3>After Selecting 3 Downloaded Profile Picture<h3>
+<h3>After Selecting 3 Downloads Profile Picture and saved in folder that is same as your instagram id<h3>
 
 ![Screenshot (132)](https://github.com/epavan162/Scraping-Instagram-Using-Python/assets/102135027/5bdbc742-fe0f-4a11-bf35-b99f1e3c4532)
 
@@ -33,7 +33,7 @@ Fetching data from Instagram is made easy with this convenient library.Instaload
 ![Screenshot 2023-08-27 165529](https://github.com/epavan162/Scraping-Instagram-Using-Python/assets/102135027/ef02781a-4f38-49e2-9181-3ab1e8a981d2)
 
 
-<h2>Folder created with an instagram id, all posts taht you requested will be saved in that folder<h2>
+<h2>Folder created with name of  an instagram id , all posts that you entered will be saved in that folder<h2>
 
 ![Screenshot 2023-08-27 170342](https://github.com/epavan162/Scraping-Instagram-Using-Python/assets/102135027/5b2a068c-76a8-4927-82af-f1d0ae3e0c2a)
 
@@ -56,14 +56,14 @@ Fetching data from Instagram is made easy with this convenient library.Instaload
 ![Screenshot (130)](https://github.com/epavan162/Scraping-Instagram-Using-Python/assets/102135027/88aa0cbc-5110-4280-a28b-32c867e25c5b)
 
 
-<h3>For Input Full deatails about a post<h3>
+<h3>For Input Full deatails of a posts<h3>
 
 
 ![Screenshot (131)](https://github.com/epavan162/Scraping-Instagram-Using-Python/assets/102135027/83ac5cef-1210-4244-bd9f-2b6987ad780d)
 
 
 
-<h3>If you want to Exit you can choos option 10, then program will be terminated.<h3>
+<h3>If you want to Exit, you can choose option 10, then program will be terminated.<h3>
 
 
 ![Screenshot 2023-08-27 173049](https://github.com/epavan162/Scraping-Instagram-Using-Python/assets/102135027/03e27445-e02c-41ec-82dd-94fe846a60ea)
